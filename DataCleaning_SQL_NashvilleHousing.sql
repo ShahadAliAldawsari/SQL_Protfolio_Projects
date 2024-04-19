@@ -227,5 +227,6 @@ from RowNumCTE
 where row_num > 1
 
 
---This is'it for now!
+--This is it for now
+--Thank you for pass by
 --------------------------------------------------------------------------------------------------------------------------
